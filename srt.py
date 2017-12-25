@@ -65,8 +65,7 @@ def Portscan(ip):
 		sys.exit(0)
 
 def main():
-
-	print "\n"
+	
 	sys.stdout.write(GREEN)
 	print ban
 	print bar
